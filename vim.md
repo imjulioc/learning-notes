@@ -1,6 +1,6 @@
 # Vim
 
-![vim commands](https://ibb.co/xmDxN2c)
+![vim commands](https://i.ibb.co/pWxYS1s/PNG-image.png)
 
 There’s command mode (“:” starting commands like “:q”) and normal mode, more like shortcuts (like ZZ which is “:wq” shortcut).
 
