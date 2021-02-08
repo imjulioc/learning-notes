@@ -1,5 +1,7 @@
 # Vim
 
+![vim commands](https://ibb.co/xmDxN2c)
+
 There’s command mode (“:” starting commands like “:q”) and normal mode, more like shortcuts (like ZZ which is “:wq” shortcut).
 
 Buffer refers a file in memory being editing in vim.
